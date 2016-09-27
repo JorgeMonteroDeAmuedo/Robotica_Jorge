@@ -1,0 +1,7 @@
+/home/jorge/Escritorio/ejemplo1/version1/CMakeFiles/install.dir
+/home/jorge/Escritorio/ejemplo1/version1/CMakeFiles/list_install_components.dir
+/home/jorge/Escritorio/ejemplo1/version1/CMakeFiles/rebuild_cache.dir
+/home/jorge/Escritorio/ejemplo1/version1/CMakeFiles/ejemplo1.dir
+/home/jorge/Escritorio/ejemplo1/version1/CMakeFiles/install/local.dir
+/home/jorge/Escritorio/ejemplo1/version1/CMakeFiles/install/strip.dir
+/home/jorge/Escritorio/ejemplo1/version1/CMakeFiles/edit_cache.dir
